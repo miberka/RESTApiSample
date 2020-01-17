@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>RESTApiSample</name>
+    </assembly>
+    <members>
+        <member name="M:RESTApiSample.Controllers.WeatherForecastController.Get">
+            <summary>
+            Gets a weather forecast.
+            </summary>
+            <returns>The list with weather forecast.</returns>
+        </member>
+    </members>
+</doc>
